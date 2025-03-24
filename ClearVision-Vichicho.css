@@ -151,3 +151,8 @@
   transform: translateY(-1px);
   box-shadow: var(--elevation-high);
 }
+
+.visual-refresh .replyBar__841c8, .visual-refresh .threadSuggestionBar__841c8 {
+  background-color: rgba(20, 20, 20, 0.8);
+  border-bottom: none;
+}
