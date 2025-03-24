@@ -132,3 +132,22 @@
   transition-property: box-shadow, transform, background, opacity;
   box-sizing: border-box;
 }
+
+.body__6da2d{
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+}
+
+.buttonSection__1405b {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 4px;
+  gap: 8px;
+  border-radius: 12px;
+  border: 1px solid hsl(240 calc(1*3.93%) 44.902% /.06);
+}
+
+.vc-addon-card:hover{
+  background-color: rgba(20, 20, 20, 0.8);
+  transform: translateY(-1px);
+  box-shadow: var(--elevation-high);
+}
