@@ -153,15 +153,11 @@
 }
 
 .visual-refresh .replyBar__841c8, .visual-refresh .threadSuggestionBar__841c8 {
-  background-color: rgba(20, 20, 20, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
   border-bottom: none;
 }
 
-.replyBar__841c8 {
-  background-color: rgba(20, 20, 20, 0.8);
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: center;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+.visual-refresh .clipContainer__841c8 {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-top: 0;
 }
