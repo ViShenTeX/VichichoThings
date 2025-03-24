@@ -162,4 +162,25 @@
   margin-top: 0;
 }
 
+.card__4bb93 {
+  display: flex;
+  align-items: center;
+  padding: 8px 4px 8px 8px;
+  border-radius: 3px;
+  font-size: 16px;
+  line-height: 16px;
+  color: var(--header-primary);
+  border: 1px solid var(--background-tertiary);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.textContainer_c6d3dc {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 6px 0px;
+}
+
+.sourceThumbnail_a2de16{
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
 /* When como cuando*/
