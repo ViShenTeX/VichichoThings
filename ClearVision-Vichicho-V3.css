@@ -12,8 +12,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #b62121; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #ff1d1d; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #a51035; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #3f3f3f; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* positive accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   /* STATUS COLORS */
@@ -24,11 +24,11 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://raw.githubusercontent.com/ViShenTeX/VichichoThings/refs/heads/main/backgrounds/20241212171001_1.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://raw.githubusercontent.com/ViShenTeX/VichichoThings/refs/heads/main/backgrounds/Nissan%20Skyline%20Pink%20Petals%204K%20Live%20Wallpaper.gif); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-filter: saturate(calc(var(--saturation-factor, 1) * 1)); /* app background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: saturate(calc(var(--saturation-factor, 1) * 1))] */
+  --background-filter: saturate(calc(var(--saturation-factor, 1) * 2)); /* app background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: saturate(calc(var(--saturation-factor, 1) * 1))] */
   /* USER POPOUT BACKGROUND */
   --user-popout-image: var(--background-image); /* user popout background image (link must be HTTPS) (not applied to nitro users) [default: var(--background-image)] */
   --user-popout-position: var(--background-position); /* user popout position [default: var(--background-position)] */
